@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMedia", "MultiMedia\MultiMedia.csproj", "{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53} = {4AE667B0-4F99-43C7-B03D-44F388A56A53}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiMedia.CompareCore.Random", "MultiMedia.CompareCore.Random\MultiMedia.CompareCore.Random.vcxproj", "{4AE667B0-4F99-43C7-B03D-44F388A56A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodQualityEvaluation", "MethodQualityEvaluation\MethodQualityEvaluation.csproj", "{F38E6935-7FA0-4480-8EE2-116C177CF93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Debug|x64.Build.0 = Debug|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Debug|x86.Build.0 = Debug|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Release|x64.ActiveCfg = Release|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Release|x64.Build.0 = Release|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Release|x86.ActiveCfg = Release|Any CPU
+		{AEB0EC06-2DB1-44A3-AC72-BB1D74EA5928}.Release|x86.Build.0 = Release|Any CPU
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Debug|Any CPU.Build.0 = Debug|Win32
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Debug|x64.ActiveCfg = Debug|x64
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Debug|x64.Build.0 = Debug|x64
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Debug|x86.ActiveCfg = Debug|Win32
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Debug|x86.Build.0 = Debug|Win32
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Release|Any CPU.ActiveCfg = Release|Win32
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Release|x64.ActiveCfg = Release|x64
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Release|x64.Build.0 = Release|x64
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Release|x86.ActiveCfg = Release|Win32
+		{4AE667B0-4F99-43C7-B03D-44F388A56A53}.Release|x86.Build.0 = Release|Win32
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Debug|x64.Build.0 = Debug|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Debug|x86.Build.0 = Debug|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Release|x64.ActiveCfg = Release|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Release|x64.Build.0 = Release|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Release|x86.ActiveCfg = Release|Any CPU
+		{F38E6935-7FA0-4480-8EE2-116C177CF93B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://freskyyy.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MultiMedia\\MultiMedia.csproj
+		SccProjectName1 = MultiMedia
+		SccLocalPath1 = MultiMedia
+		SccProjectUniqueName2 = MultiMedia.CompareCore.Random\\MultiMedia.CompareCore.Random.vcxproj
+		SccProjectName2 = MultiMedia.CompareCore.Random
+		SccLocalPath2 = MultiMedia.CompareCore.Random
+		SccProjectUniqueName3 = MethodQualityEvaluation\\MethodQualityEvaluation.csproj
+		SccProjectName3 = MethodQualityEvaluation
+		SccLocalPath3 = MethodQualityEvaluation
+	EndGlobalSection
+EndGlobal

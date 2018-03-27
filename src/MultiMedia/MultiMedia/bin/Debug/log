@@ -1,0 +1,504 @@
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\cat1.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 24
+Compare hsv returned with value: 0.968362
+Compare rgb returned with value: 0.936686
+Compare sift good match points: 215
+Compare returned with value: 215.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\cat3.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 19
+Compare hsv returned with value: 0.965744
+Compare rgb returned with value: 0.961134
+Compare sift good match points: 212
+Compare returned with value: 212.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\dog6.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 17
+Compare hsv returned with value: 0.984121
+Compare rgb returned with value: 0.968333
+Compare sift good match points: 211
+Compare returned with value: 211.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\dog7.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 24
+Compare hsv returned with value: 0.931389
+Compare rgb returned with value: 0.956289
+Compare sift good match points: 182
+Compare returned with value: 182.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\pt1.jpg'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 15
+Compare hsv returned with value: 0.535301
+Compare rgb returned with value: 0.892161
+Compare sift good match points: 187
+Compare returned with value: 187.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\pt2.jpg'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 19
+Compare hsv returned with value: 0.547979
+Compare rgb returned with value: 0.892563
+Compare sift good match points: 186
+Compare returned with value: 186.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\pt4.jpg'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 16
+Compare hsv returned with value: 0.913134
+Compare rgb returned with value: 0.877397
+Compare sift good match points: 178
+Compare returned with value: 178.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\pt5.jpg'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 22
+Compare hsv returned with value: 0.565363
+Compare rgb returned with value: 0.887490
+Compare sift good match points: 190
+Compare returned with value: 190.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\pt6.jpg'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 8
+Compare hsv returned with value: 0.967659
+Compare rgb returned with value: 0.693473
+Compare sift good match points: 194
+Compare returned with value: 194.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\pt7.jpg'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 13
+Compare hsv returned with value: 0.512522
+Compare rgb returned with value: 0.803766
+Compare sift good match points: 184
+Compare returned with value: 184.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red1.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 15
+Compare hsv returned with value: 0.417453
+Compare rgb returned with value: 0.987716
+Compare sift good match points: 170
+Compare returned with value: 170.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red10.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 9
+Compare hsv returned with value: 0.889790
+Compare rgb returned with value: 0.717802
+Compare sift good match points: 177
+Compare returned with value: 177.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red2.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 13
+Compare hsv returned with value: 0.584329
+Compare rgb returned with value: 0.991361
+Compare sift good match points: 180
+Compare returned with value: 180.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red3.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 25
+Compare hsv returned with value: 0.958721
+Compare rgb returned with value: 0.911170
+Compare sift good match points: 191
+Compare returned with value: 191.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red4.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 13
+Compare hsv returned with value: 0.543809
+Compare rgb returned with value: 0.610670
+Compare sift good match points: 198
+Compare returned with value: 198.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red5.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 9
+Compare hsv returned with value: 0.561815
+Compare rgb returned with value: 0.596301
+Compare sift good match points: 193
+Compare returned with value: 193.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red6.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 14
+Compare hsv returned with value: 0.455293
+Compare rgb returned with value: 0.533313
+Compare sift good match points: 187
+Compare returned with value: 187.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red7.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 14
+Compare hsv returned with value: 0.458762
+Compare rgb returned with value: 0.495076
+Compare sift good match points: 180
+Compare returned with value: 180.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 0
+Compare hsv returned with value: 0.000000
+Compare rgb returned with value: 0.000000
+Compare sift good match points: 0
+Compare returned with value: 0.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red9.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 11
+Compare hsv returned with value: 0.604901
+Compare rgb returned with value: 0.614924
+Compare sift good match points: 212
+Compare returned with value: 212.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\whilte11.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 17
+Compare hsv returned with value: 0.984737
+Compare rgb returned with value: 0.982789
+Compare sift good match points: 207
+Compare returned with value: 207.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\white1.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 9
+Compare hsv returned with value: 0.983871
+Compare rgb returned with value: 0.928708
+Compare sift good match points: 199
+Compare returned with value: 199.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\white10.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 22
+Compare hsv returned with value: 0.907434
+Compare rgb returned with value: 0.963367
+Compare sift good match points: 202
+Compare returned with value: 202.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\white2.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 31
+Compare hsv returned with value: 0.898615
+Compare rgb returned with value: 0.856502
+Compare sift good match points: 198
+Compare returned with value: 198.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\white3.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 13
+Compare hsv returned with value: 0.979543
+Compare rgb returned with value: 0.970694
+Compare sift good match points: 204
+Compare returned with value: 204.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\white5.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 20
+Compare hsv returned with value: 0.720972
+Compare rgb returned with value: 0.981697
+Compare sift good match points: 201
+Compare returned with value: 201.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\white6.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 10
+Compare hsv returned with value: 0.544461
+Compare rgb returned with value: 0.543773
+Compare sift good match points: 162
+Compare returned with value: 162.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\white7.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 15
+Compare hsv returned with value: 0.977169
+Compare rgb returned with value: 0.960654
+Compare sift good match points: 226
+Compare returned with value: 226.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\white8.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 20
+Compare hsv returned with value: 0.918858
+Compare rgb returned with value: 0.884808
+Compare sift good match points: 186
+Compare returned with value: 186.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\white9.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 21
+Compare hsv returned with value: 0.944688
+Compare rgb returned with value: 0.749002
+Compare sift good match points: 218
+Compare returned with value: 218.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\xg3.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 14
+Compare hsv returned with value: 0.607969
+Compare rgb returned with value: 0.986682
+Compare sift good match points: 165
+Compare returned with value: 165.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\xg4.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 13
+Compare hsv returned with value: 0.456374
+Compare rgb returned with value: 0.985928
+Compare sift good match points: 193
+Compare returned with value: 193.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow1.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 10
+Compare hsv returned with value: 0.458916
+Compare rgb returned with value: 0.996512
+Compare sift good match points: 177
+Compare returned with value: 177.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow10.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 12
+Compare hsv returned with value: 0.642150
+Compare rgb returned with value: 0.698610
+Compare sift good match points: 192
+Compare returned with value: 192.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow2.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 15
+Compare hsv returned with value: 0.494323
+Compare rgb returned with value: 0.993177
+Compare sift good match points: 167
+Compare returned with value: 167.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow3.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 8
+Compare hsv returned with value: 0.485100
+Compare rgb returned with value: 0.533542
+Compare sift good match points: 167
+Compare returned with value: 167.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow4.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 8
+Compare hsv returned with value: 0.485100
+Compare rgb returned with value: 0.533542
+Compare sift good match points: 167
+Compare returned with value: 167.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow5.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 10
+Compare hsv returned with value: 0.988162
+Compare rgb returned with value: 0.627729
+Compare sift good match points: 176
+Compare returned with value: 176.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow6.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 8
+Compare hsv returned with value: 0.607442
+Compare rgb returned with value: 0.575699
+Compare sift good match points: 182
+Compare returned with value: 182.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow7.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 14
+Compare hsv returned with value: 0.365562
+Compare rgb returned with value: 0.594827
+Compare sift good match points: 170
+Compare returned with value: 170.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow8.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 10
+Compare hsv returned with value: 0.521142
+Compare rgb returned with value: 0.686564
+Compare sift good match points: 184
+Compare returned with value: 184.000000
+Compare called, parameter 1 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\red8.bmp', parameter 2 = 'C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\TestFiles\yellow9.bmp'
+sift keypoints (pattern) Done
+rgb hist (pattern) Done
+hsv hist (pattern) Done
+sift keypoints (source) Done
+hsv hist (source) Done
+rgb hist (source) Done
+Compare Phash returned with value: 12
+Compare hsv returned with value: 0.988529
+Compare rgb returned with value: 0.758042
+Compare sift good match points: 187
+Compare returned with value: 187.000000

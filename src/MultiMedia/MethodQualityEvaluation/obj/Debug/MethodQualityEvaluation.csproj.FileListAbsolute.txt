@@ -1,0 +1,12 @@
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\bin\Debug\MethodQualityEvaluation.exe.config
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\bin\Debug\MethodQualityEvaluation.exe
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\bin\Debug\MethodQualityEvaluation.pdb
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\bin\Debug\MultiMedia.exe
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\bin\Debug\Fresky.UI.dll
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\bin\Debug\Fresky.Common.dll
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\bin\Debug\Fresky.Resource.dll
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\bin\Debug\MultiMedia.pdb
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\obj\Debug\MethodQualityEvaluation.csprojResolveAssemblyReference.cache
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\obj\Debug\MethodQualityEvaluation.csproj.MethodQualityEvaluation.exe.config
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\obj\Debug\MethodQualityEvaluation.exe
+C:\Users\fretmp\OneDrive\Pro\VSE\Homeworks\MultiMedia\MethodQualityEvaluation\obj\Debug\MethodQualityEvaluation.pdb
